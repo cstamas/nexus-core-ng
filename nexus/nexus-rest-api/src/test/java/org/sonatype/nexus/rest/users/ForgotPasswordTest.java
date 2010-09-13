@@ -9,8 +9,6 @@ import javax.mail.internet.MimeMessage;
 
 import junit.framework.Assert;
 
-import org.apache.log4j.Level;
-import org.apache.log4j.Logger;
 import org.codehaus.plexus.util.IOUtil;
 import org.codehaus.plexus.util.xml.pull.XmlPullParserException;
 import org.restlet.data.Request;

@@ -57,11 +57,6 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-log4j12</artifactId>
-      <scope>provided</scope>
-    </dependency>
-    <dependency>
       <groupId>jdom</groupId>
       <artifactId>jdom</artifactId>
       <version>1.0</version>
@@ -71,12 +66,6 @@
       <groupId>rome</groupId>
       <artifactId>rome</artifactId>
       <version>0.9</version>
-      <scope>provided</scope>
-    </dependency>
-    <dependency>
-      <groupId>log4j</groupId>
-      <artifactId>log4j</artifactId>
-      <version>1.2.14</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
